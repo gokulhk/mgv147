@@ -23,5 +23,6 @@
             <tr><td>Published:</td><td><h3>2 stories published.</h3></td></tr>
             <tr><td>Drafts:</td><td><h3>12 stories drafted.</h3></td></tr>
         </table>
+        <p>Hey Goks..</p>
     </body>
 </html>
